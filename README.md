@@ -1,5 +1,5 @@
-docker-jenkins
+supervisord_jenkins
 ==============
 
-    $ docker run -d -p 80:8080 orchardup/jenkins
+    $ docker run -d -P yaleh/supervisord_jenkins
 
